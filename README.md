@@ -37,7 +37,7 @@ While mentoring students in Research Methodology Course, I noticed they struggle
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/pubmed-search-engine.git
+   git clone https://github.com/jaannawaz/pubmed-search-engine.git
    cd pubmed-search-engine
    ```
 
